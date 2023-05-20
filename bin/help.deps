@@ -1,0 +1,6 @@
+echo 'Dependencies:
+
+  python (3.4+)
+  pip
+  python-dev
+'

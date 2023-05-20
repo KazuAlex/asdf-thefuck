@@ -1,0 +1,9 @@
+echo 'Basic usage:
+
+  asdf install thefuck 3.32
+  asdf global thefuck 3.32
+  thefuck -v
+  The Fuck 3.32
+
+Check the asdf documentation for more instructions on how to install & manage versions of The Fuck. Please make sure you have the required system dependencies installed before trying to install The Fuck.
+'
